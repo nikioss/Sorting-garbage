@@ -1,5 +1,13 @@
-# Sorting-garbage
-https://www.kaggle.com/competitions/waste-detection/overview
-Detection of plastic bottles and other objects on the conveyor belt
+# Сортировка мусора
+Детекция пластиковых бутылок и других объектов на ленте конвейере
 
-#
+Ссылка на соревнование на Kaggle: https://www.kaggle.com/competitions/waste-detection/overview
+
+## Для решения данной задачи использовался следующий стек технологий:
+- Python
+- PyTorch
+- Сверточные нейронные сети (CNN)
+- Модели архитектур YoLo
+
+## Ноутбук с решением находится в фале Detection
+## Dataset - файл с реализацией класса Dataset для упрощения работы с данными
